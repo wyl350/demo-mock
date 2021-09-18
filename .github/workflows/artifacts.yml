@@ -1,3 +1,5 @@
+name: example
+on: [push]
 jobs:
   example-job1:
     name: Save output
