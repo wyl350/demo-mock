@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08656bb4-0a42-493c-8766-4ba568307325" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a9sNsv5zvTQz8v1c2VlPkwVTJw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Mock" />
+      <recent name="C:\Mock\05" />
+      <recent name="C:\Mock\04" />
+      <recent name="C:\Mock\03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.06.html (1)">
+    <configuration name="05.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mock/05/05.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="06.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mock/07/06.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="06.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mock/06/06.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="07.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mock/07/07.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="05.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/05/05.js" working-dir="$PROJECT_DIR$/05">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.06.html (1)" />
+        <item itemvalue="JavaScript Debug.07.html" />
+        <item itemvalue="JavaScript Debug.06.html" />
+        <item itemvalue="JavaScript Debug.05.html" />
+        <item itemvalue="Node.js.05.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08656bb4-0a42-493c-8766-4ba568307325" name="默认的" comment="" />
+      <created>1586159106432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586159106432</updated>
+      <workItem from="1586159107549" duration="679000" />
+      <workItem from="1586160309628" duration="5859000" />
+      <workItem from="1586167867011" duration="2000" />
+      <workItem from="1586171022390" duration="18000" />
+      <workItem from="1586171062198" duration="9000" />
+      <workItem from="1586171194099" duration="12000" />
+      <workItem from="1587539014438" duration="14731000" />
+      <workItem from="1587554824761" duration="3187000" />
+      <workItem from="1587608999508" duration="48000" />
+      <workItem from="1587609291163" duration="7747000" />
+      <workItem from="1587617986395" duration="608000" />
+      <workItem from="1587618627137" duration="727000" />
+      <workItem from="1587619752822" duration="1477000" />
+      <workItem from="1588139049473" duration="2520000" />
+      <workItem from="1588144476820" duration="141000" />
+      <workItem from="1588144907429" duration="11551000" />
+      <workItem from="1588159650161" duration="118000" />
+      <workItem from="1588382908379" duration="15565000" />
+      <workItem from="1588427885659" duration="3467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587611265941">
+      <screen x="0" y="0" width="1920" height="1152" />
+    </state>
+    <state x="623" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1152@0.0.1920.1152" timestamp="1587611265941" />
+    <state width="1892" height="329" key="GridCell.Tab.0.bottom" timestamp="1588159233198">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1588159233198" />
+    <state width="1892" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1152@0.0.1920.1152" timestamp="1588150781633" />
+    <state width="1892" height="329" key="GridCell.Tab.0.center" timestamp="1588159233198">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="329" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1588159233198" />
+    <state width="1892" height="329" key="GridCell.Tab.0.center/0.0.1920.1152@0.0.1920.1152" timestamp="1588150781632" />
+    <state width="1892" height="329" key="GridCell.Tab.0.left" timestamp="1588159233197">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="329" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1588159233197" />
+    <state width="1892" height="329" key="GridCell.Tab.0.left/0.0.1920.1152@0.0.1920.1152" timestamp="1588150781632" />
+    <state width="1892" height="329" key="GridCell.Tab.0.right" timestamp="1588159233198">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="329" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1588159233198" />
+    <state width="1892" height="329" key="GridCell.Tab.0.right/0.0.1920.1152@0.0.1920.1152" timestamp="1588150781632" />
+    <state x="339" y="56" key="SettingsEditor" timestamp="1586159386090">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="339" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1586159386090" />
+    <state x="204" y="10" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587553804500">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="204" y="10" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1587553804500" />
+    <state x="539" y="117" width="840" height="1034" key="search.everywhere.popup" timestamp="1587542059402">
+      <screen x="0" y="0" width="1920" height="1152" />
+    </state>
+    <state x="539" y="117" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1152@0.0.1920.1152" timestamp="1587542059402" />
+  </component>
+</project>
